@@ -1009,3 +1009,7 @@ Script Stack (0 frames):
 [2020.10.11-12.13.12:869][327]LogSlate: Window 'Submit Files' being destroyed
 [2020.10.11-12.13.13:090][327]SourceControl: Error: fatal: pathspec 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Game1.uproject' did not match any files
 [2020.10.11-12.13.13:270][327]SourceControl: Error: error: pathspec 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Game1.uproject' did not match any file(s) known to git
+[2020.10.11-12.19.21:431][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.10.11-12.20.13:669][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.10.11-12.20.22:246][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.10.11-12.20.26:470][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
