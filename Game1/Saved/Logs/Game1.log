@@ -939,3 +939,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.11-12.01.03:640][  1]LogAssetRegistry: Asset discovery search completed in 36.0847 seconds
 [2020.10.11-12.01.03:652][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2020.10.11-12.03.41:284][201]LogSlate: Window 'Source Control Login' being destroyed
+[2020.10.11-12.12.17:393][ 93]LogSlate: Took 0.011768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.11-12.12.19:036][ 93]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.11-12.12.23:880][598]LogEditorViewport: Clicking on Actor (context menu): Actor (Actor)
+[2020.10.11-12.12.24:611][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.11-12.12.40:099][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.11-12.12.40:164][ 38]LogSavePackage: Moving 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Saved/ThirdPersonExampleMap3BFCC71E488FCC24D55118A595321FCE.tmp' to 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.11-12.12.40:171][ 38]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.100
+[2020.10.11-12.12.40:284][ 38]LogSavePackage: Moving 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Saved/ThirdPersonExampleMap_BuiltData61807BB74C2C1F978B43ABBBA8ED94F8.tmp' to 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.11-12.12.40:286][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/NewBlueprint" FILE="C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Content/ThirdPersonBP/Maps/NewBlueprint.uasset" SILENT=true
+[2020.10.11-12.12.40:320][ 38]LogSavePackage: Moving 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Saved/NewBlueprint0F8BE997446341DA7D685BB673B42844.tmp' to 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Content/ThirdPersonBP/Maps/NewBlueprint.uasset'
+[2020.10.11-12.12.40:443][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.11-12.12.40:444][ 38]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.11-12.12.40:444][ 38]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.11-12.12.40:444][ 38]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Maps/NewBlueprint.NewBlueprint
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Content: 'D:/UE_4.25/Engine/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.43:225][327]SourceControl: fatal: D:/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Utilisateur/Documents/GitHub/benm'
+[2020.10.11-12.12.44:708][327]LogPackageName: Error: Illegal call to DoesPackageExist: 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Game1.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.10.11-12.12.44:728][327]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.11-12.12.46:362][327]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.633 s
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: 
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/PackageName.cpp] [Line: 943]
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: Illegal call to DoesPackageExist: 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Game1.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: Stack: 
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc1e47b5e7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc1e050354 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc13e7715c UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc13e7729b UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc10cb54fc UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc10c6a1ea UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc10c69d0b UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc10c82b6e UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc0419c456 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc041a1702 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc13e7bc4f UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc1938b66e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc19c61d06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ff656b17800 UE4Editor.exe!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ff656b2ba7c UE4Editor.exe!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ff656b2bb5a UE4Editor.exe!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ff656b3e31d UE4Editor.exe!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ff656b4145a UE4Editor.exe!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc955c6fd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: [Callstack] 0x00007ffc9757cec1 ntdll.dll!UnknownFunction []
+[2020.10.11-12.12.46:362][327]LogOutputDevice: Error: 
+[2020.10.11-12.12.46:371][327]LogStats:                SubmitErrorReport -  0.000 s
+[2020.10.11-12.12.55:114][327]LogStats:                    SendNewReport -  8.744 s
+[2020.10.11-12.12.55:115][327]LogStats:             FDebug::EnsureFailed - 10.386 s
+[2020.10.11-12.13.12:869][327]LogSlate: Window 'Submit Files' being destroyed
+[2020.10.11-12.13.13:090][327]SourceControl: Error: fatal: pathspec 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Game1.uproject' did not match any files
+[2020.10.11-12.13.13:270][327]SourceControl: Error: error: pathspec 'C:/Users/Utilisateur/Documents/GitHub/benm/Game1/Game1.uproject' did not match any file(s) known to git
